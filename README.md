@@ -27,3 +27,5 @@ Perform and publish a custom EDA project to demnostrate skills with Jupyter, pan
 ## Explored Dataset
 - Seaborn
 
+## Added dataset
+- Tips
