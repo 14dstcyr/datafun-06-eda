@@ -3,7 +3,7 @@
 ## Overview
 Project 6 is an opportunity to create a custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
 
-[Llink_to_tipscsv_file](https://github.com/14dstcyr/datafun-06-eda/blob/main/tips.csv)
+[Link_to_tips.csv_file](https://github.com/14dstcyr/datafun-06-eda/blob/main/tips.csv)
 
 ## Deliverable Names
 - GitHub Repository: datafun-06-eda
